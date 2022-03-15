@@ -1,0 +1,5 @@
+task01/.terraform
+task01/.idea
+task01/*.tfstate
+task01/*.tfstate.backup
+task01/*.tfvars
